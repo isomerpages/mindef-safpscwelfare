@@ -2,4 +2,5 @@ collections:
   corporate-passes-application:
     output: true
     order:
+      - Wild Wild Wet.md
       - Singapore Zoo & River Wonders.md
