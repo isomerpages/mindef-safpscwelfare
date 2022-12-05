@@ -1,0 +1,4 @@
+collections:
+  telco-deals:
+    output: true
+    order: []
