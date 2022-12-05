@@ -1,0 +1,4 @@
+collections:
+  corporate-passes-application:
+    output: true
+    order: []
