@@ -1,0 +1,4 @@
+collections:
+  bazaars:
+    output: true
+    order: []
