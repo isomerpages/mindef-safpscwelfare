@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Corporate Passes To Singapore Zoo & River Wonders.md
       - Activity Based Deals.md
       - Lifestyle Deals.md
       - F&B Deals.md
