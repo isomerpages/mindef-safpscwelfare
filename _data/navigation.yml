@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: "Telco "
-    url: /telco-deals/
-  - title: Staycation
-    url: /staycation-deals/
+  - title: Activity
+    collection: activity-based-deals
+  - title: Bazaars
+    collection: bazaars
