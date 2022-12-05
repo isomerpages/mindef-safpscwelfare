@@ -1,0 +1,4 @@
+collections:
+  staycation-deals:
+    output: true
+    order: []
