@@ -2,7 +2,6 @@ collections:
   example-folder:
     output: true
     order:
-      - Activity Based Deals.md
       - Lifestyle Deals.md
       - F&B Deals.md
       - Staycation Deals.md
