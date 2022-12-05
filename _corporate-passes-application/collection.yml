@@ -1,4 +1,5 @@
 collections:
   corporate-passes-application:
     output: true
-    order: []
+    order:
+      - Singapore Zoo & River Wonders.md
