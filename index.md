@@ -9,5 +9,4 @@ sections:
   - hero:
       title: SAFPSC Welfare Portal
       subtitle: Corporate Deals & Passes
-      background: /images/Travel (Banner (Landscape)).png
 ---
