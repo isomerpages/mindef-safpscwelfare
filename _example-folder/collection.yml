@@ -2,7 +2,6 @@ collections:
   example-folder:
     output: true
     order:
-      - Corporate Passes to Wild Wild Wet.md
       - Corporate Passes To Singapore Zoo & River Wonders.md
       - Activity Based Deals.md
       - Lifestyle Deals.md
