@@ -1,0 +1,4 @@
+collections:
+  activity-based-deals:
+    output: true
+    order: []
