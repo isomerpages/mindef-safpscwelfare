@@ -1,0 +1,6 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Activity
+    collection: activity-based-deals
+  - title: Bazaars
+    collection: bazaars

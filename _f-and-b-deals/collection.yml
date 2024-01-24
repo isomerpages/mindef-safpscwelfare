@@ -1,0 +1,4 @@
+collections:
+  f-and-b-deals:
+    output: true
+    order: []
